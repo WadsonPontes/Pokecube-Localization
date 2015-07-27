@@ -1,0 +1,64 @@
+﻿#Pokecube Generations translation
+
+item.MetalCoat.name=Revestimento de Metal
+item.SoftBoiledEgg.name=Ovo Cozido
+item.SilverWing.name=Pena de Prata
+item.RainbowWing.name=Pena de Arco-Íris
+item.LegendarySword.name=Espada Lendária
+item.MysteriousAntennae.name=Antena Misteriosa
+item.LileepFossil.name=Fóssil Raiz
+item.AnorithFossil.name=Fóssil Garra
+item.CranidosFossil.name=Fóssil Caveira
+item.ShieldonFossil.name=Fóssil Armadura
+item.Sapphire.name=Safira
+item.Ruby.name=Rubi
+item.UnchargedOrb.name=Esfera
+item.LegendaryOrb.name=Esfera Lendária
+item.BlueOrb.name=Esfera Azul
+item.RedOrb.name=Esfera Vermelha
+
+item.helmetMagma.name=Elmo da Equipe Magma
+item.bootsMagma.name=Botas da Equipe Magma
+item.chestplateMagma.name=Peitoral da Equipe Magma
+item.leggingsMagma.name=Calças da Equipe Magma
+
+item.helmetAqua.name=Elmo da Equipe Aqua
+item.bootsAqua.name=Botas da Equipe Aqua
+item.chestplateAqua.name=Peitoral da Equipe Aqua
+item.leggingsAqua.name=Calças da Equipe Aqua
+
+item.GriseousOrb.name=Esfera de Platina
+
+tile.LegendarySpawner.name=Desova de Pokémob Lendário
+tile.FossilStone2.name=Fóssil
+tile.Reanimator.name=Reanimador
+tile.oresapphire.name=Minério de Safira
+tile.oreruby.name=Minério de Rubi
+
+tile.MagmaBrick.name=Tijolos de Magma
+tile.MoltenBrick.name=Tijolos de Lava
+tile.Lumnimoss.name=Musgo Luminoso
+tile.AntiBrick.name=Tijolos de Antimatéria
+tile.DarkSkyBrick.name=Tijolos do Céu Escuro
+tile.DistortedCobblestone.name=Pedregulho Distorcido
+tile.DistortedDirt.name=Terra Distorcida
+tile.DistortedGrass.name=Grama Distorcida
+tile.DistortedStone.name=Pedra Distorcida
+tile.DistortionCrystal.name=Cristal Distorcido
+tile.DistortionCrystal.desc=Altamente instável, pode explodir!
+tile.Golemstone.name=Golem de Pedra
+tile.Permafrost.name=Gelo Permanente
+tile.SkyBrick.name=Tijolos do Céu
+tile.SolarStone.name=Pedra Solar
+tile.SpatialBrick.name=Tijolos Espacial
+tile.TemporalBrick.name=Tijolos Temporal
+tile.Unobtanium.name=Inobtível
+tile.WaterBrick.name=Tijolo de Água
+
+tile.RegirockSpawn.name=Núcleo de Regirock
+tile.RegiceSpawn.name=Núcleo de Regice
+tile.RegisteelSpawn.name=Núcleo de Registeel
+tile.Celebi.name=Altar Misterioso
+tile.HoohSpawner.name=Altar do Ho-Oh
+tile.kyogreSpawner.name=Altar do Kyogre
+tile.groudonSpawner.name=Altar do Groudon

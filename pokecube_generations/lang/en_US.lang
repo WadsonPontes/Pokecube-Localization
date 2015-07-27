@@ -1,0 +1,64 @@
+﻿#Pokecube Generations translation
+
+item.MetalCoat.name=Metal Coat
+item.SoftBoiledEgg.name=Soft-Boiled Egg
+item.SilverWing.name=Silver Wing
+item.RainbowWing.name=Rainbow Wing
+item.LegendarySword.name=Legendary Sword
+item.MysteriousAntennae.name=Mysterious Antenna
+item.LileepFossil.name=Root Fossil
+item.AnorithFossil.name=Claw Fossil
+item.CranidosFossil.name=Skull Fossil
+item.ShieldonFossil.name=Armor Fossil
+item.Sapphire.name=Sapphire
+item.Ruby.name=Ruby
+item.UnchargedOrb.name=Uncharged Orb
+item.LegendaryOrb.name=Legendary Orb
+item.BlueOrb.name=Blue Orb
+item.RedOrb.name=Red Orb
+
+item.helmetMagma.name=Magma Suit Helmet
+item.bootsMagma.name=Magma Suit Boots
+item.chestplateMagma.name=Magma Suit Chestplate
+item.leggingsMagma.name=Magma Suit Pants
+
+item.helmetAqua.name=Aqua Suit Helmet
+item.bootsAqua.name=Aqua Suit Boots
+item.chestplateAqua.name=Aqua Suit Chestplate
+item.leggingsAqua.name=Aqua Suit Pants
+
+item.GriseousOrb.name=Griseous Orb [WIP]
+
+tile.LegendarySpawner.name=Legendary Spawner
+tile.FossilStone2.name=Fossil Stone
+tile.Reanimator.name=Reanimator
+tile.oresapphire.name=Sapphire Ore
+tile.oreruby.name=Ruby Ore
+
+tile.MagmaBrick.name=Magma Brick
+tile.MoltenBrick.name=Molten Brick
+tile.Lumnimoss.name=Luminous Moss
+tile.AntiBrick.name=Antimatter Brick
+tile.DarkSkyBrick.name=Dark Sky Brick
+tile.DistortedCobblestone.name=Distorted Cobblestone
+tile.DistortedDirt.name=Distorted Dirt
+tile.DistortedGrass.name=Distorted Grass
+tile.DistortedStone.name=Distorted Stone
+tile.DistortionCrystal.name=Distortion Crystal
+tile.DistortionCrystal.desc=Highly unstable, may explode!
+tile.Golemstone.name=Golem Stone
+tile.Permafrost.name=Permafrost
+tile.SkyBrick.name=Sky Brick
+tile.SolarStone.name=Solar Stone
+tile.SpatialBrick.name=Spatial Brick
+tile.TemporalBrick.name=Temporal Brick
+tile.Unobtanium.name=Unobtanium
+tile.WaterBrick.name=Water Brick
+
+tile.RegirockSpawn.name=Regirock Core
+tile.RegiceSpawn.name=Regice Core
+tile.RegisteelSpawn.name=Registeel Core
+tile.Celebi.name=Mysterious Altar
+tile.HoohSpawner.name=Ho-oh Altar
+tile.kyogreSpawner.name=Kyogre Altar
+tile.groudonSpawner.name=Groudon Altar

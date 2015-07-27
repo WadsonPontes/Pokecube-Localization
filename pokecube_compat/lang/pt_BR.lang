@@ -1,0 +1,10 @@
+#Thaumcraft Stuff
+
+tc.research_category.POKECUBE=Pokécube
+tc.research_name.THAUMIUMPOKECUBE=Thaumium Pokécube
+tc.research_text.THAUMIUMPOKECUBE=[PC] O que é Apricorn?
+tc.research_page.THAUMIUMPOKECUBE.1=Você descobriu que as propriedades místicas contidas no Thaumium tem um efeito interessante sobre Pokécubos. Thaumium Pokécubes pode ser infundido com essência de aumentar a taxa de captura de Pokémon com tipos correspondentes. Devido a certas limitações de Thaumium, apenas um tipo Pokémon é contabilizada quando Thaumium Pokécubo é usado. Gostaria de saber se há uma maneira de mudar isso ...
+item.thaumiumpokecube.name=Thaumium Pokécubo
+
+#RF Stuff
+tile.pokesiphon.name=Pokésifão
